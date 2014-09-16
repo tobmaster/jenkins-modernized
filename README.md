@@ -11,6 +11,8 @@ This one is made for Jenkins ver. 1.569 and Chrome and works nice so far.
 Should work with other modern browsers but I don't guarantee.
 So use it at your own risk, fix it when you update or disable it to return to the old ui.
 
+The abandonment of an additional js for the theme is intended.
+
 You have can use it by installing the simple theme plugin:
 
     https://wiki.jenkins-ci.org/display/JENKINS/Simple+Theme+Plugin
