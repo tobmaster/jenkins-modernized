@@ -1,7 +1,7 @@
 Jenkins modernized theme
 ========================
 
-[[preview.jpg|align=center]]
+![Preview](/preview.png?raw=true "Preview image")
 
 During starring at a antique looking boring jenkins ui I started to make some improvements 
 everytime I am bored or needed to wait for builds.
